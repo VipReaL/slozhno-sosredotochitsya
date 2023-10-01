@@ -11,7 +11,11 @@
   */
   --heading-color: #DB00FF;
   --accent-color: #FF0070;
+  --text-title: #000028;
+  --text-heading: #FF0070;
   --text-color: #F1B2CE;
+  --decorated-zone: #FF0070;
+  --decorated-zone-hover: rgba(255, 0, 112, 0.40);
   --background-color: #000028;
   --background-image: url(../images/cover-image-dark.png);
 }

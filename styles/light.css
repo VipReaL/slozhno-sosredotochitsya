@@ -12,7 +12,11 @@
   --desktop-title-decor: #FF0070;
   --heading-color: #FFC2E6;
   --accent-color: #FF8DCB;
+  --text-title: #353430;
+  --text-heading: #353430;
   --text-color: #353430;
+  --decorated-zone: #353430;
+  --decorated-zone-hover: rgba(50, 49, 45, 0.40);
   --background-color: #FFF1F7;
   --background-image: url(../images/cover-image-light.png);
 }
@@ -22,9 +26,13 @@
     --desktop-title-decor: #FF0070;
     --heading-color: #FFC2E6;
     --accent-color: #FF8DCB;
+    --text-title: #353430;
+    --text-heading: #353430;
     --text-color: #353430;
+    --decorated-zone: #353430;
+    --decorated-zone-hover: rgba(50, 49, 45, 0.40);
     --background-color: #FFF1F7;
-    --background-image: url(../images/cover-image-light.png);   
+    --background-image: url(../images/cover-image-light.png);
     }
   }
 
