@@ -12,7 +12,8 @@
 }
 
 .header {
-  min-height: 100vh;
+  height: 100vh;
+  min-height: 668px;
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 1fr min-content 1fr;
@@ -301,7 +302,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
+  height: 100vh;
+  min-height: 668px;
 }
 
 .footer__title {
